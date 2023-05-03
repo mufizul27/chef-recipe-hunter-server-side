@@ -3,7 +3,8 @@
     {
       "id": 1,
       "name": "Chef John Doe",
-      "image": "https://ibb.co/7pFqH5w",
+      "image": "https://i.ibb.co/dWQYvBX/chef1.jpg",
+      
       "experience": 10,
       "recipes": 50,
       "likes": 200,
@@ -11,19 +12,19 @@
         {
           "id": 1,
           "name": "Spicy Chicken Curry",
-          "image": "https://ibb.co/9hjh0Fv",
+          "image": "https://i.ibb.co/LP0nWG3/item1.jpg",
           "chefId": 1
         },
         {
           "id": 2,
           "name": "Sesame Beef Stir Fry",
-          "image": "https://ibb.co/8YsmF3c",
+          "image": "https://i.ibb.co/hLn4Y3M/item2.jpg",
           "chefId": 1
         },
         {
           "id": 3,
           "name": "Shrimp and Vegetable Lo Mein",
-          "image": "https://ibb.co/8dTBBg5",
+          "image": "https://i.ibb.co/vXGJ5XR/item3.jpg",
           "chefId": 1
         }
       ]
@@ -31,7 +32,7 @@
     {
       "id": 2,
       "name": "Chef Jane Smith",
-      "image": "https://ibb.co/YhdkY73",
+      "image": "https://i.ibb.co/3p4LksV/chef2.jpg",
       "experience": 8,
       "recipes": 40,
       "likes": 150,
@@ -39,19 +40,19 @@
         {
           "id": 4,
           "name": "Crispy Orange Chicken",
-          "image": "https://ibb.co/8BxZkvf",
+          "image": "https://i.ibb.co/xXrkFb6/item4.jpg",
           "chefId": 2
         },
         {
           "id": 5,
           "name": "Spicy Korean Beef Tacos",
-          "image": "https://ibb.co/5WTx2Lc",
+          "image": "https://i.ibb.co/9TG9C3X/item5.jpg",
           "chefId": 2
         },
         {
           "id": 6,
           "name": "Miso-Glazed Salmon",
-          "image": "https://ibb.co/9Zf9CQX",
+          "image": "https://i.ibb.co/dtYTRy1/item6.jpg",
           "chefId": 2
         }
       ]
@@ -59,7 +60,7 @@
     {
       "id": 3,
       "name": "Chef David Lee",
-      "image": "https://ibb.co/4MpH8vv",
+      "image": "https://i.ibb.co/LRb7Wcg/chef3.jpg",
       "experience": 12,
       "recipes": 60,
       "likes": 250,
@@ -67,19 +68,19 @@
         {
           "id": 7,
           "name": "Tom Kha Gai Soup",
-          "image": "https://ibb.co/TWsThwq",
+          "image": "https://i.ibb.co/3fSytNc/item7.jpg",
           "chefId": 3
         },
         {
           "id": 8,
           "name": "Beef and Broccoli Stir Fry",
-          "image": "https://ibb.co/kSxRgF7",
+          "image": "https://i.ibb.co/2kbMWHz/item8.jpg",
           "chefId": 3
         },
         {
           "id": 9,
           "name": "Chicken Tikka Masala",
-          "image": "https://ibb.co/kSxRgF7",
+          "image": "https://i.ibb.co/6ch1d77/item9.jpg",
           "chefId": 3
         }
       ]
@@ -87,7 +88,7 @@
     {
       "id": 4,
       "name": "Chef Sarah Johnson",
-      "image": "https://ibb.co/123QwZx",
+      "image": "https://i.ibb.co/tK9Pctb/chef4.jpg",
       "experience": 6,
       "recipes": 30,
       "likes": 100,
@@ -95,19 +96,19 @@
         {
           "id": 10,
           "name": "Classic Spaghetti and Meatballs",
-          "image": "https://ibb.co/tCtYB94",
+          "image": "https://i.ibb.co/rkpK2Vh/item10.jpg",
           "chefId": 4
         },
         {
           "id": 11,
           "name": "Pesto Chicken Bake",
-          "image": "https://ibb.co/mFyDHS2",
+          "image": "https://i.ibb.co/rsM5FTr/item11.jpg",
           "chefId": 4
         },
         {
           "id": 12,
           "name": "Vegetable Lasagna",
-          "image": "https://ibb.co/SxTqL0Y",
+          "image": "https://i.ibb.co/JBsLxmc/item12.jpg",
           "chefId": 4
         }
       ]
@@ -115,7 +116,7 @@
     {
       "id": 5,
       "name": "Chef Sarah ",
-      "image": "https://ibb.co/pxZJxZv",
+      "image": "https://i.ibb.co/PzQP6mc/chef5.jpg",
       "experience": 9,
       "recipes": 30,
       "likes": 1000,
@@ -123,19 +124,19 @@
         {
           "id": 13,
           "name": "Classic Spaghetti and Meatballs",
-          "image": "https://ibb.co/7Wk8m2d",
+          "image": "https://i.ibb.co/BTrvLXx/item13.jpg",
           "chefId": 5
         },
         {
           "id": 14,
           "name": "Pesto Chicken Bake",
-          "image": "https://ibb.co/hChmwCf",
+          "image": "https://i.ibb.co/r2ddjsZ/item14.jpg",
           "chefId": 5
         },
         {
           "id": 15,
           "name": "Vegetable Lasagna",
-          "image": "https://ibb.co/yqc3W4r",
+          "image": "https://i.ibb.co/2dHYghp/item15.jpg",
           "chefId": 5
         }
       ]
@@ -143,7 +144,7 @@
     {
       "id": 6,
       "name": "Chef Sarah Johnson",
-      "image": "https://ibb.co/fQxnQd8",
+      "image": "https://i.ibb.co/PY7vfP0/chef6.jpg",
       "experience": 6,
       "recipes": 30,
       "likes": 100,
@@ -151,19 +152,19 @@
         {
           "id": 16,
           "name": "Classic Spaghetti and Meatballs",
-          "image": "https://ibb.co/phy0Z2p",
+          "image": "https://i.ibb.co/NnSgbbb/item16.jpg",
           "chefId": 6
         },
         {
           "id": 17,
           "name": "Pesto Chicken Bake",
-          "image": "https://ibb.co/Mk43tdb",
+          "image": "https://i.ibb.co/c1kH9qd/item20.jpg",
           "chefId": 6
         },
         {
           "id": 18,
           "name": "Vegetable Lasagna",
-          "image": "https://ibb.co/PDswr4G",
+          "image": "https://i.ibb.co/pPBp2sR/item19.jpg",
           "chefId": 6
         }
       ]
